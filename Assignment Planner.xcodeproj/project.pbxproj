@@ -13,6 +13,7 @@
 		AE5742F822D3F4CD003DAE45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE5742F622D3F4CD003DAE45 /* Main.storyboard */; };
 		AE5742FA22D3F4CE003DAE45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE5742F922D3F4CE003DAE45 /* Assets.xcassets */; };
 		AE5742FD22D3F4CE003DAE45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE5742FB22D3F4CE003DAE45 /* LaunchScreen.storyboard */; };
+		AE57430522D3F719003DAE45 /* Assigment.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE57430422D3F719003DAE45 /* Assigment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AE5742F922D3F4CE003DAE45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE5742FC22D3F4CE003DAE45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE5742FE22D3F4CE003DAE45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE57430422D3F719003DAE45 /* Assigment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assigment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AE5742F222D3F4CD003DAE45 /* MasterViewController.swift */,
 				AE5742F422D3F4CD003DAE45 /* DetailViewController.swift */,
 				AE5742F622D3F4CD003DAE45 /* Main.storyboard */,
+				AE57430422D3F719003DAE45 /* Assigment.swift */,
 				AE5742F922D3F4CE003DAE45 /* Assets.xcassets */,
 				AE5742FB22D3F4CE003DAE45 /* LaunchScreen.storyboard */,
 				AE5742FE22D3F4CE003DAE45 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE5742F522D3F4CD003DAE45 /* DetailViewController.swift in Sources */,
+				AE57430522D3F719003DAE45 /* Assigment.swift in Sources */,
 				AE5742F322D3F4CD003DAE45 /* MasterViewController.swift in Sources */,
 				AE5742F122D3F4CD003DAE45 /* AppDelegate.swift in Sources */,
 			);
