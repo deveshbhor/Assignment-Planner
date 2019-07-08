@@ -8,7 +8,7 @@
 
 import UIKit
 
-class Assigment: Codable {
+class Assignment: Codable {
 
     var name : String
     var subject : String
@@ -22,5 +22,4 @@ class Assigment: Codable {
         self.dueDate = dueDate
         self.description = description
     }
-    
 }
